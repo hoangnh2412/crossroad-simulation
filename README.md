@@ -6,4 +6,4 @@ Summary
 
 Below is diagram of simplify. For detail i has comment in source code
 
-https://github.com/hoangnh2412/crossroad-simulation/blob/main/system-architecture.jpg?raw=true
+![System architecture](https://github.com/hoangnh2412/crossroad-simulation/blob/main/system-architecture.jpg?raw=true)
